@@ -1,2 +1,6 @@
 /credentials.json
 /token.json
+/calendar_data.json
+/__pycache__
+/.env
+/.gitignore
